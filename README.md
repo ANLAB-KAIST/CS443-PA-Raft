@@ -1,1 +1,3 @@
 # CS443-PA-Raft
+# Please, DO NOT FORK!
+# Please, DO NOT MAKE YOUR SOLUTION PUBLIC!
